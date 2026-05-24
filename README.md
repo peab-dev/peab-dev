@@ -10,6 +10,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 🖥️ [Visit peab.at](https://peab.at)
+🖥️ [Visit austro-intelligence.at](https://austro-intelligence.at)
 
 
 <!--
