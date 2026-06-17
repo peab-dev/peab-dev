@@ -1,9 +1,8 @@
 # Hi there, I'm Peter 👋
 
 ### 👨‍💻 **Developer** & **Artist** 🎤
- <br>
 📍 Made & based since 1991 in **Linz**, Austria 🇦🇹 
-
+ <br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
