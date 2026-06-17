@@ -1,4 +1,4 @@
-## Hi there, I'm Peter 👋
+# Hi there, I'm Peter 👋
 
 👨‍💻 **Developer** & **Artist** 🎤
  <br>
@@ -13,4 +13,3 @@
 and more =)
 <br><br>
 <a href="https://peab.at">![peab.at](https://img.shields.io/badge/peab.at-d4f500?style=for-the-badge)</a>&nbsp;&nbsp;
-<a href="mailto:peab@peab.at">![peab.at](https://img.shields.io/badge/peab@peab.at-d4f500?style=for-the-badge)</a>
